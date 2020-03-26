@@ -24,4 +24,8 @@
 1. 'Dungeon -> Dungeon Board' to show the dungeon map.
 2. 'Dungeon -> Dungeon Setup' to show the tokens, markers and enemies for the dungeon map.
 3. Drag and drop the various pieces where they are displayed in the scenario book.
+####  Scenario Enemies ####
+1. 'Dungeon -> Enemy Board' to show the enemy board.
+2. 'Dungeon -> Enemy Desk' to show the enemy types. For each enemy type, right click and choose a position for it on the enemy board.
+3.  On the enemy board, use "Change Enemy Level" to set the enemies to the right level.
 ### Scenario Combat ###
